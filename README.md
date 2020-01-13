@@ -17,3 +17,5 @@ The code for the guided project will be written in a single file for simplicity.
 - [ ] type `npm i` to download dependencies. This step is equivalent to using `yarn` for React Projects.
 
 Please follow along as the instructor builds the API step by step.
+
+# First commit for backend guided project
